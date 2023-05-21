@@ -1,0 +1,7 @@
+{
+  "name": "arteconecta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
